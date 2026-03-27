@@ -15,43 +15,31 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Ikshan</h5>
+                <h4>Researcher</h4>
+                <h5>URECA, Nanyang Technological University</h5>
               </div>
-              <h3>2020</h3>
+              <h3>2024</h3>
             </div>
             <p>
-              Built 6+ complete applications using React.js. Integrated backend
-              authentication using Node.js & MongoDB. Created responsive UI/UX
-              and designed wireframes using Figma.
+              Examined strategies to streamline LLMs by synchronizing hardware
+              and software advancements. Compared evaluation metrics of 5
+              multimodal zero-shot chatbots to proprietary models like GPT-4o.
+              Devised directions incorporating RAG and high-speed retrieval.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Senior Full Stack Developer</h4>
-                <h5>Monocept (Max Life Insurance)</h5>
-              </div>
-              <h3>2021</h3>
-            </div>
-            <p>
-              Led two development teams on Mpro, a large-scale insurance
-              operations platform. Developed multiple modules using React.js &
-              migrated critical functionalities to Node.js microservices.
-            </p>
-          </div>
-          <div className="career-info-box">
-            <div className="career-info-in">
-              <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Logic Loop</h5>
+                <h4>Software Development Engineer Intern</h4>
+                <h5>The Software Practice Pte Ltd</h5>
               </div>
               <h3>NOW</h3>
             </div>
             <p>
-              Building Solid, a proprietary low-code platform using Angular,
-              Next.js & NestJS. Delivering production-ready CMS-based projects
-              including e-commerce, CRM, and import-export automation systems.
+              Implemented and enhanced backend services for HSA's Internet and
+              Intranet applications using C# (.NET), Docker, SQL, and Swagger.
+              Owned Jira tickets end-to-end, managed deployments across SIT,
+              UAT, and Production via GitLab, and monitored with AWS & OpenLens.
             </p>
           </div>
         </div>
